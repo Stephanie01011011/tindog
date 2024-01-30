@@ -1,0 +1,69 @@
+body{
+    text-align: center;
+}
+
+.hero{
+    background-color: rgb(106, 106, 185);
+    text-align: left;
+}
+
+.grey{
+    background-color: rgb(241, 241, 241);
+    
+    
+}
+.biz{
+    display: flex;
+    justify-content: space-around;
+}
+#dogBio{
+    text-align: center;
+}
+.triple{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+#xltxt{
+    font-size: 60px;
+    
+}
+.footer{
+    background-color: rgb(106, 106, 185);
+  
+    
+}
+.logo{
+    text-align: left;
+    color: white;
+}
+.footerlist{
+    text-align: left;
+    color: white;
+}
+#profile{
+    height: 100px;
+    border-radius: 50%;
+}
+#bizName{
+    height: 30px;
+}
+.trip{
+    text-align: left;
+    display: flex;
+}
+#svg{
+    height: 50px;
+    width: 50px;
+    border-radius: 20%;
+}
+#apple{
+    margin-right: 5px;
+}
+#google{
+    margin-right: 5px;
+}
+#pricesmtxt{
+    font-size: 22px;
+}
